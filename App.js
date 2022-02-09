@@ -129,7 +129,7 @@ const styles = StyleSheet.create({
     flex: 1, // server para modificar toda área
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: 'while',
+    backgroundColor: '#fff',
     height: 40,
     margin: 17, // serve para desgrudar os botões
     borderRadius: 10, // arendondar as bodas da margens dos botões
